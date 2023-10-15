@@ -1,2 +1,3 @@
 # 50proyects
-practices for the course given to students of univercidad del norte
+
+This repository is part of the course that I teach to the students of the Universidad del Norte.
